@@ -10,4 +10,4 @@
 </h4>
 
 <h3>Exemplo de como ficou no Desktop</h3>
-
+<img src="https://github.com/LeoMoreira96/Wide-coverage-location/blob/master/img/DESKTOP-PROJETO-WIDE%20COVERAGE.PNG?raw=true">
